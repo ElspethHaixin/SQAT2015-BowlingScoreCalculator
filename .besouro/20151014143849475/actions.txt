@@ -20,3 +20,4 @@ RefactoringAction 1444824349661 TestBowlingScoreCalculator.java ADD void testIsS
 RefactoringAction 1444824354177 TestBowlingScoreCalculator.java RENAME testIsStrike1()/2=>void testIsS1() METHOD
 RefactoringAction 1444824355687 TestBowlingScoreCalculator.java RENAME testIsS1()=>void testIsSpare1() METHOD
 EditAction 1444824392592 TestBowlingScoreCalculator.java 533 3 6 3
+EditAction 1444824402415 TestBowlingScoreCalculator.java 532 3 6 3
