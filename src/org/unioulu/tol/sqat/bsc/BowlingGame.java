@@ -27,13 +27,13 @@ public class BowlingGame {
 		for (; i < frames.size(); i++)
 		{
 			cnt += frames.get(i).score();
-			if (frames.get(i).isStrike() == true)
-			{
-				cnt += frames.get(i + 1).getFirstThrow() + frames.get(i + 1).getSecondThrow();
-			}
-			if (frames.get(i).isSpare() == true)
-			{
-				cnt += frames.get(i + 1).getFirstThrow();
+			if (i != frames.size() - 1) {
+				if (frames.get(i).isStrike() == true) {
+					cnt += frames.get(i + 1).getFirstThrow() + frames.get(i + 1).getSecondThrow();
+				}
+				if (frames.get(i).isSpare() == true) {
+					cnt += frames.get(i + 1).getFirstThrow();
+				}
 			}
 		}
 		return cnt;

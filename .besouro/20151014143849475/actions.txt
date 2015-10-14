@@ -94,3 +94,6 @@ RefactoringAction 1444827784888 TestBowlingScoreCalculator.java ADD void testSco
 RefactoringAction 1444827787907 TestBowlingScoreCalculator.java RENAME testScore2()/2=>void testScore()/2 METHOD
 RefactoringAction 1444827788928 TestBowlingScoreCalculator.java RENAME testScore()/2=>void testScore3() METHOD
 EditAction 1444827831246 TestBowlingScoreCalculator.java 1497 9 25 9
+UnitTestCaseAction 1444827834264 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444827834264 TestBowlingScoreCalculator FAIL
+EditAction 1444827913046 BowlingGame.java 1158 5 8 0
