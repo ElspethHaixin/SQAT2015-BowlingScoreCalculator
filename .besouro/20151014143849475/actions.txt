@@ -157,3 +157,4 @@ RefactoringAction 1444828561767 Frame.java ADD void setAdditionThrow(int) METHOD
 RefactoringAction 1444828654800 Frame.java ADD Frame(int, int)/2 METHOD
 RefactoringAction 1444828674846 Frame.java RENAME Frame(int, int)/2=>Frame(int, int, int) METHOD
 EditAction 1444828708488 Frame.java 1639 13 18 0
+EditAction 1444828924326 Frame.java 1655 13 18 0
