@@ -38,6 +38,10 @@ public class BowlingGame {
 					cnt += frames.get(i + 1).getFirstThrow();
 				}
 			}
+			else 
+			{
+				
+			}
 		}
 		return cnt;
 	}
