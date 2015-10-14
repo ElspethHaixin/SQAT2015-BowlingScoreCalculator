@@ -8,3 +8,9 @@ EditAction 1444824130551 TestBowlingScoreCalculator.java 307 1 2 1
 UnitTestCaseAction 1444824136442 TestBowlingScoreCalculator.java FAIL
 UnitTestSessionAction 1444824136444 TestBowlingScoreCalculator FAIL
 EditAction 1444824234177 Frame.java 846 6 8 0
+UnitTestCaseAction 1444824237176 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444824237176 TestBowlingScoreCalculator OK
+RefactoringAction 1444824264783 TestBowlingScoreCalculator.java RENAME testIsStrike()=>void testIsStrike1() METHOD
+RefactoringAction 1444824272808 TestBowlingScoreCalculator.java ADD void testIsStrike1()/2 METHOD
+RefactoringAction 1444824276834 TestBowlingScoreCalculator.java RENAME testIsStrike1()/2=>void testIsStrike2() METHOD
+EditAction 1444824293289 TestBowlingScoreCalculator.java 423 2 4 2
