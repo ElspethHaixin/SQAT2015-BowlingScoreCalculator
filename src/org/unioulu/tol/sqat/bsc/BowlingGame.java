@@ -36,7 +36,7 @@ public class BowlingGame {
 				cnt += frames.get(i + 1).getFirstThrow();
 			}
 		}
-		return 0;
+		return cnt;
 	}
 	
 	public boolean isNextFrameBonus(){
