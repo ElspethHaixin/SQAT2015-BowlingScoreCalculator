@@ -5,3 +5,6 @@ RefactoringAction 1444823843459 TestBowlingScoreCalculator.java RENAME testIsS()
 RefactoringAction 1444823844975 TestBowlingScoreCalculator.java RENAME testIsSt()=>void testIsStrike() METHOD
 RefactoringAction 1444823956344 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.Frame IMPORT
 EditAction 1444824130551 TestBowlingScoreCalculator.java 307 1 2 1
+UnitTestCaseAction 1444824136442 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444824136444 TestBowlingScoreCalculator FAIL
+EditAction 1444824234177 Frame.java 846 6 8 0
