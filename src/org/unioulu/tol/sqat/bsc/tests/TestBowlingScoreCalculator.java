@@ -155,6 +155,7 @@ public class TestBowlingScoreCalculator {
 		b.addFrame(new Frame(0, 1));
 		b.addFrame(new Frame(7, 3));
 		b.addFrame(new Frame(6, 4));
+		b.addFrame(new Frame(10, 0));
 		b.addFrame(new Frame(2, 8, 6));
 		System.out.println(b.score());
 		//assertEquals(133, b.score());
