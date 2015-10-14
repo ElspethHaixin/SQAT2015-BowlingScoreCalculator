@@ -147,3 +147,13 @@ UnitTestSessionAction 1444828372434 TestBowlingScoreCalculator OK
 RefactoringAction 1444828380629 TestBowlingScoreCalculator.java ADD void testScore9()/2 METHOD
 RefactoringAction 1444828385657 TestBowlingScoreCalculator.java RENAME testScore9()/2=>void testScore10() METHOD
 EditAction 1444828423864 TestBowlingScoreCalculator.java 3844 16 87 16
+UnitTestCaseAction 1444828426614 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444828426614 TestBowlingScoreCalculator FAIL
+RefactoringAction 1444828533210 Frame.java ADD int add FIELD
+RefactoringAction 1444828535724 Frame.java RENAME add=>int addThrow FIELD
+RefactoringAction 1444828545251 Frame.java RENAME addThrow=>int additionThrow FIELD
+RefactoringAction 1444828561765 Frame.java ADD int getAdditionThrow() METHOD
+RefactoringAction 1444828561767 Frame.java ADD void setAdditionThrow(int) METHOD
+RefactoringAction 1444828654800 Frame.java ADD Frame(int, int)/2 METHOD
+RefactoringAction 1444828674846 Frame.java RENAME Frame(int, int)/2=>Frame(int, int, int) METHOD
+EditAction 1444828708488 Frame.java 1639 13 18 0

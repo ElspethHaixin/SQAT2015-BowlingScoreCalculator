@@ -4,6 +4,16 @@ public class Frame {
 	private int firstThrow;
 	private int secondThrow;
 	
+	private int additionThrow;
+	
+	public int getAdditionThrow() {
+		return additionThrow;
+	}
+
+	public void setAdditionThrow(int additionThrow) {
+		this.additionThrow = additionThrow;
+	}
+
 	public int getFirstThrow() {
 		return firstThrow;
 	}
@@ -18,6 +28,12 @@ public class Frame {
 
 	public void setSecondThrow(int secondThrow) {
 		this.secondThrow = secondThrow;
+	}
+	
+	public Frame(int firstThrow, int secondThrow, int additionThrow){
+		this.firstThrow = firstThrow;
+		this.secondThrow = secondThrow;
+		this.additionThrow = additionThrow;
 	}
 	
 	public Frame(int firstThrow, int secondThrow){
