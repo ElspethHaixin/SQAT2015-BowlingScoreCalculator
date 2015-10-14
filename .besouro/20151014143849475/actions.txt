@@ -160,3 +160,4 @@ EditAction 1444828708488 Frame.java 1639 13 18 0
 EditAction 1444828924326 Frame.java 1655 13 18 0
 EditAction 1444828924425 BowlingGame.java 1202 5 8 0
 EditAction 1444828924506 TestBowlingScoreCalculator.java 3847 16 87 16
+EditAction 1444828939534 BowlingGame.java 1174 5 8 0
