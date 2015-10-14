@@ -119,3 +119,10 @@ UnitTestSessionAction 1444828141771 TestBowlingScoreCalculator OK
 RefactoringAction 1444828149078 TestBowlingScoreCalculator.java ADD void testScore6()/2 METHOD
 RefactoringAction 1444828152105 TestBowlingScoreCalculator.java RENAME testScore6()/2=>void testScore7() METHOD
 EditAction 1444828181244 TestBowlingScoreCalculator.java 2660 13 55 13
+UnitTestCaseAction 1444828182877 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444828182877 TestBowlingScoreCalculator OK
+RefactoringAction 1444828189794 TestBowlingScoreCalculator.java ADD void testScore7()/2 METHOD
+RefactoringAction 1444828212873 TestBowlingScoreCalculator.java RENAME testScore7()/2=>void testScore6()/2 METHOD
+RefactoringAction 1444828214400 TestBowlingScoreCalculator.java RENAME testScore6()/2=>void testScore8() METHOD
+RefactoringAction 1444828215427 TestBowlingScoreCalculator.java RENAME testScore8()=>void testScore()/2 METHOD
+EditAction 1444828231491 TestBowlingScoreCalculator.java 3031 14 55 13
