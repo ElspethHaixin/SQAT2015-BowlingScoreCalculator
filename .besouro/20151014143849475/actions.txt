@@ -59,3 +59,12 @@ EditAction 1444826253497 BowlingGame.java 772 5 5 0
 UnitTestCaseAction 1444826258242 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444826258243 TestBowlingScoreCalculator OK
 EditAction 1444826902180 BowlingGame.java 935 5 4 0
+CompilationAction 1444826902444 BowlingGame.java
+CompilationAction 1444826902444 BowlingGame.java
+RefactoringAction 1444827174040 Frame.java ADD int getFirstThrow() METHOD
+RefactoringAction 1444827174041 Frame.java ADD void setFirstThrow(int) METHOD
+RefactoringAction 1444827174041 Frame.java ADD int getSecondThrow() METHOD
+RefactoringAction 1444827174042 Frame.java ADD void setSecondThrow(int) METHOD
+RefactoringAction 1444827187557 Frame.java REMOVE secondThrow FIELD
+RefactoringAction 1444827199100 Frame.java ADD int secondThrow FIELD
+EditAction 1444827218203 Frame.java 1263 10 13 0
