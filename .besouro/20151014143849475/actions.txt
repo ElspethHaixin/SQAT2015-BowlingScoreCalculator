@@ -159,3 +159,4 @@ RefactoringAction 1444828674846 Frame.java RENAME Frame(int, int)/2=>Frame(int, 
 EditAction 1444828708488 Frame.java 1639 13 18 0
 EditAction 1444828924326 Frame.java 1655 13 18 0
 EditAction 1444828924425 BowlingGame.java 1202 5 8 0
+EditAction 1444828924506 TestBowlingScoreCalculator.java 3847 16 87 16
