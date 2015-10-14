@@ -36,4 +36,10 @@ public class TestBowlingScoreCalculator {
 		Frame f = new Frame(1, 4);
 		assertEquals(5, f.score());
 	}
+	
+	@Test
+	public void testScore() {
+		Frame f = new Frame(1, 4);
+		assertEquals(5, f.score());
+	}
 }

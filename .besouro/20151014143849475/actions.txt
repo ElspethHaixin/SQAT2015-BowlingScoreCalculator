@@ -43,3 +43,4 @@ UnitTestCaseAction 1444824984319 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444824984319 TestBowlingScoreCalculator OK
 RefactoringAction 1444825720956 TestBowlingScoreCalculator.java ADD void testScore()/2 METHOD
 EditAction 1444825857116 BowlingGame.java 772 5 5 0
+EditAction 1444825857216 TestBowlingScoreCalculator.java 853 6 12 6
