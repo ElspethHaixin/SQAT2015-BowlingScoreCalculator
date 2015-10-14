@@ -8,3 +8,12 @@
 1444824570616 test-addition 1 17 true
 1444824984319 test-first 3 357 true
 1444824984320 test-first 3 357 true
+1444826258243 test-first 1 537 true
+1444826258244 test-first 1 537 true
+1444826258245 test-first 1 537 true
+1444826258246 test-first 1 537 true
+1444826258247 test-first 1 537 true
+1444826258248 test-last 1 537 false
+1444826258249 test-first 1 537 true
+1444826258250 test-first 1 537 true
+1444826258251 test-first 1 537 true

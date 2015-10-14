@@ -22,6 +22,16 @@ public class BowlingGame {
 	
 	public int score(){
 		//to be implemented
+		int cnt = 0;
+		int i = 0;
+		for (; i < frames.size(); i++)
+		{
+			cnt += frames.get(i).score();
+			if (f.isStrike() == true)
+			{
+				cnt += 
+			}
+		}
 		return 0;
 	}
 	
