@@ -29,3 +29,10 @@ UnitTestSessionAction 1444824534591 TestBowlingScoreCalculator OK
 RefactoringAction 1444824552990 TestBowlingScoreCalculator.java ADD void testIsSpare1()/2 METHOD
 RefactoringAction 1444824556506 TestBowlingScoreCalculator.java RENAME testIsSpare1()/2=>void testIsSpare2() METHOD
 EditAction 1444824569070 TestBowlingScoreCalculator.java 648 4 8 4
+UnitTestCaseAction 1444824570614 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444824570615 TestBowlingScoreCalculator OK
+FileOpenedAction 1444824627168 BowlingGame.java 584 5 2 0
+RefactoringAction 1444824840117 TestBowlingScoreCalculator.java ADD void testIsSpare1()/2 METHOD
+RefactoringAction 1444824846135 TestBowlingScoreCalculator.java RENAME testIsSpare1()/2=>void test() METHOD
+RefactoringAction 1444824849153 TestBowlingScoreCalculator.java RENAME test()=>void testScore() METHOD
+EditAction 1444824882637 TestBowlingScoreCalculator.java 749 5 10 5

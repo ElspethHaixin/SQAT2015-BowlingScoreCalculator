@@ -31,4 +31,9 @@ public class TestBowlingScoreCalculator {
 		assertEquals(false, f.isSpare());
 	}
 	
+	@Test
+	public void testScore() {
+		Frame f = new Frame(1, 4);
+		assertEquals(5, f.score());
+	}
 }
