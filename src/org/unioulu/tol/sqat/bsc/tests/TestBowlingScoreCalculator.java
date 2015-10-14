@@ -116,7 +116,7 @@ public class TestBowlingScoreCalculator {
 	}
 	
 	@Test
-	public void testScore(8) {
+	public void testScore8() {
 		BowlingGame b = new BowlingGame();
 		b.addFrame(new Frame(1, 4));
 		b.addFrame(new Frame(4, 5));
