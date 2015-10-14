@@ -44,3 +44,12 @@ UnitTestSessionAction 1444824984319 TestBowlingScoreCalculator OK
 RefactoringAction 1444825720956 TestBowlingScoreCalculator.java ADD void testScore()/2 METHOD
 EditAction 1444825857116 BowlingGame.java 772 5 5 0
 EditAction 1444825857216 TestBowlingScoreCalculator.java 853 6 12 6
+CompilationAction 1444825857606 TestBowlingScoreCalculator.java
+RefactoringAction 1444825874528 TestBowlingScoreCalculator.java RENAME testScore()/2=>void testS() METHOD
+RefactoringAction 1444825875546 TestBowlingScoreCalculator.java RENAME testS()=>void testSet() METHOD
+RefactoringAction 1444825884064 TestBowlingScoreCalculator.java RENAME testSet()=>void testSetBonus() METHOD
+RefactoringAction 1444826013354 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.BowlingGame IMPORT
+RefactoringAction 1444826105200 TestBowlingScoreCalculator.java RENAME testSetBonus()=>void testisNextFrameBonus() METHOD
+RefactoringAction 1444826108219 TestBowlingScoreCalculator.java RENAME testisNextFrameBonus()=>void testIsNextFrameBonus() METHOD
+CompilationAction 1444826212650 TestBowlingScoreCalculator.java
+EditAction 1444826229578 BowlingGame.java 657 5 4 0
