@@ -44,4 +44,11 @@ public class TestBowlingScoreCalculator {
 		b.addFrame(new Frame(1, 9));
 		assertEquals(true, b.isNextFrameBonus());
 	}
+	
+	@Test
+	public void testScore1() {
+		BowlingGame b = new BowlingGame();
+		b.addFrame(new Frame(1, 4));
+		assertEquals(5, b.score());
+	}
 }

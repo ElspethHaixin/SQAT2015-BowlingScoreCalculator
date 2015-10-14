@@ -71,3 +71,12 @@ EditAction 1444827218203 Frame.java 1263 10 13 0
 CompilationAction 1444827218326 BowlingGame.java
 CompilationAction 1444827218327 BowlingGame.java
 EditAction 1444827218333 BowlingGame.java 960 5 4 0
+CompilationAction 1444827218592 BowlingGame.java
+CompilationAction 1444827218593 BowlingGame.java
+CompilationAction 1444827399042 BowlingGame.java
+CompilationAction 1444827399043 BowlingGame.java
+RefactoringAction 1444827418698 TestBowlingScoreCalculator.java ADD void testIsNextFrameBonus()/2 METHOD
+RefactoringAction 1444827424216 TestBowlingScoreCalculator.java RENAME testIsNextFrameBonus()/2=>void test() METHOD
+RefactoringAction 1444827425735 TestBowlingScoreCalculator.java RENAME test()=>void testScore()/2 METHOD
+RefactoringAction 1444827441254 TestBowlingScoreCalculator.java RENAME testScore()/2=>void testScore1() METHOD
+EditAction 1444827650112 TestBowlingScoreCalculator.java 1109 7 16 7
