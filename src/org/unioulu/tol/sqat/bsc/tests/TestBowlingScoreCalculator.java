@@ -126,6 +126,6 @@ public class TestBowlingScoreCalculator {
 		b.addFrame(new Frame(0, 1));
 		b.addFrame(new Frame(7, 3));
 		b.addFrame(new Frame(6, 4));
-		assertEquals(86, b.score());
+		assertEquals(87, b.score());
 	}
 }
