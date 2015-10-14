@@ -29,7 +29,7 @@ public class BowlingGame {
 			cnt += frames.get(i).score();
 			if (f.isStrike() == true)
 			{
-				cnt += 
+				cnt += frames.get(i + 1).score()
 			}
 		}
 		return 0;

@@ -68,3 +68,6 @@ RefactoringAction 1444827174042 Frame.java ADD void setSecondThrow(int) METHOD
 RefactoringAction 1444827187557 Frame.java REMOVE secondThrow FIELD
 RefactoringAction 1444827199100 Frame.java ADD int secondThrow FIELD
 EditAction 1444827218203 Frame.java 1263 10 13 0
+CompilationAction 1444827218326 BowlingGame.java
+CompilationAction 1444827218327 BowlingGame.java
+EditAction 1444827218333 BowlingGame.java 960 5 4 0
