@@ -14,3 +14,9 @@ RefactoringAction 1444824264783 TestBowlingScoreCalculator.java RENAME testIsStr
 RefactoringAction 1444824272808 TestBowlingScoreCalculator.java ADD void testIsStrike1()/2 METHOD
 RefactoringAction 1444824276834 TestBowlingScoreCalculator.java RENAME testIsStrike1()/2=>void testIsStrike2() METHOD
 EditAction 1444824293289 TestBowlingScoreCalculator.java 423 2 4 2
+UnitTestCaseAction 1444824294903 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444824294903 TestBowlingScoreCalculator OK
+RefactoringAction 1444824349661 TestBowlingScoreCalculator.java ADD void testIsStrike1()/2 METHOD
+RefactoringAction 1444824354177 TestBowlingScoreCalculator.java RENAME testIsStrike1()/2=>void testIsS1() METHOD
+RefactoringAction 1444824355687 TestBowlingScoreCalculator.java RENAME testIsS1()=>void testIsSpare1() METHOD
+EditAction 1444824392592 TestBowlingScoreCalculator.java 533 3 6 3
