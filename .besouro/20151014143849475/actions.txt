@@ -1,0 +1,7 @@
+FileOpenedAction 1444822729781 TestBowlingScoreCalculator.java 223 1 1 0
+RefactoringAction 1444823832927 TestBowlingScoreCalculator.java RENAME test()=>void testIs() METHOD
+RefactoringAction 1444823834444 TestBowlingScoreCalculator.java RENAME testIs()=>void testIsS() METHOD
+RefactoringAction 1444823843459 TestBowlingScoreCalculator.java RENAME testIsS()=>void testIsSt() METHOD
+RefactoringAction 1444823844975 TestBowlingScoreCalculator.java RENAME testIsSt()=>void testIsStrike() METHOD
+RefactoringAction 1444823956344 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.Frame IMPORT
+EditAction 1444824130551 TestBowlingScoreCalculator.java 307 1 2 1
